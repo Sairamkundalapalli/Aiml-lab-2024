@@ -18,3 +18,5 @@ Repository for student projects and assignments
 [lab8](https://github.com/Sairamkundalapalli/Aiml-lab-2024/blob/main/LAB_08.ipynb)
 
 [lab9](https://github.com/Sairamkundalapalli/Aiml-lab-2024/blob/main/LAB_09.ipynb)
+
+[lab10](https://colab.research.google.com/drive/1cbDSa2_OCzuvNIhG7JbKvHGgs99S00j9#scrollTo=bByhaQW_V__G)
